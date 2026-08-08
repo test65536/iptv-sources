@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -385,4 +385,4 @@
 | 379 | Dragon TV International | restream.pdtvhd.com | <https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8> |
 | 380 | CCTV-5+ | myip.pdtvhd.com | <https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8> |
 
-Updated at **Sat Aug 08 2026 06:37:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Aug 08 2026 08:30:58 GMT+0000 (Coordinated Universal Time)**
