@@ -101,4 +101,4 @@
 | 95 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
 | 96 | 动画高清 | IPv4 直链 | <rtp://239.3.1.80:4120> |
 
-Updated at **Mon Oct 05 2026 18:59:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 06 2026 01:03:47 GMT+0000 (Coordinated Universal Time)**
